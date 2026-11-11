@@ -1,0 +1,6 @@
+{
+  "name": "AI Farming Planner",
+  "description": "From Seed to Harvest, Powered by AI. Complete agricultural platform with plant scanner, land analysis, crop recommendation, farm layout planner, weather integration, and harvest tracking.",
+  "requestFramePermissions": ["geolocation", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
